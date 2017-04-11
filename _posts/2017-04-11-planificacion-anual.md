@@ -1,18 +1,18 @@
 ---
-slideinit: "<section markdown=\"1\" data-background=\"http://projectpages.github.io/project-pages/img/slidebackground.png\"><section markdown=\"1\">"
-vertical: "</section><section markdown=\"1\">"
-horizontal: "</section></section><section markdown=\"1\" data-background=\"http://projectpages.github.io/project-pages/img/slidebackground.png\"><section markdown=\"1\">"
-subtitle: Quinto Grado 2017
 layout: post
-title: Planificación anual
-author: Alvar Maciel
-tags: planificacion
-category: ""
-theme: beige
-trans: cube
-visualworkflow: true
-published: false
+title: Planificación Anual
+author: Alvar maciel
+tags: post template
+subtitle: Quinto grado 2017
+category:  project1
 ---
+<!-- Start Writing Below in Markdown -->
+
+# Índice
+
+* TOC
+{:toc}
+
 
 # Planificación anual
 
