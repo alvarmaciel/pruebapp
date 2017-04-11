@@ -90,7 +90,6 @@ category:  project1
 <td >Matemáticas</td>
 <td >P. Del Lenguaje</td>
 </tr>
-</tbody>
 </table>
 
 **Distribución Horaria**
