@@ -10,7 +10,7 @@ url: "https://alvarmaciel.github.io"
 baseurl: "/pruebapp"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /pruebapp/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  alvarmaciel
