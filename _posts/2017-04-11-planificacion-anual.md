@@ -20,90 +20,75 @@ category:  project1
 
 ## Horario
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table>
 
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
 <tr>
-<td class="org-right">Horario</td>
-<td class="org-left">Lunes</td>
-<td class="org-left">Martes</td>
-<td class="org-left">Miércoles</td>
-<td class="org-left">Jueves</td>
-<td class="org-left">Viernes</td>
+<td >Horario</td>
+<td >Lunes</td>
+<td >Martes</td>
+<td >Miércoles</td>
+<td >Jueves</td>
+<td >Viernes</td>
 </tr>
 
 
 <tr>
-<td class="org-right">1</td>
-<td class="org-left">P. del Lenguaje</td>
-<td class="org-left">C. Naturales</td>
-<td class="org-left">C. Sociales</td>
-<td class="org-left">P. del Lenguaje</td>
-<td class="org-left">Matemáticas</td>
+<td  >1</td>
+<td >P. del Lenguaje</td>
+<td >C. Naturales</td>
+<td >C. Sociales</td>
+<td >P. del Lenguaje</td>
+<td >Matemáticas</td>
 </tr>
 
 
 <tr>
-<td class="org-right">2</td>
-<td class="org-left">P. del Lenguaje</td>
-<td class="org-left">C. Naturales</td>
-<td class="org-left">C. Sociales</td>
-<td class="org-left">P. del Lenguaje</td>
-<td class="org-left">Matemáticas</td>
+<td  >2</td>
+<td >P. del Lenguaje</td>
+<td >C. Naturales</td>
+<td >C. Sociales</td>
+<td >P. del Lenguaje</td>
+<td >Matemáticas</td>
 </tr>
 
 
 <tr>
-<td class="org-right">3</td>
-<td class="org-left">Educ. Fisica</td>
-<td class="org-left">Matemáticas</td>
-<td class="org-left">Inglés</td>
-<td class="org-left">Asamblea</td>
-<td class="org-left">Educ. Física</td>
+<td  >3</td>
+<td >Educ. Fisica</td>
+<td >Matemáticas</td>
+<td >Inglés</td>
+<td >Asamblea</td>
+<td >Educ. Física</td>
 </tr>
 
 
 <tr>
-<td class="org-right">4</td>
-<td class="org-left">Plástica</td>
-<td class="org-left">Inglés</td>
-<td class="org-left">Inglés</td>
-<td class="org-left">Música</td>
-<td class="org-left">C. Sociales</td>
+<td  >4</td>
+<td >Plástica</td>
+<td >Inglés</td>
+<td >Inglés</td>
+<td >Música</td>
+<td >Tecnología</td>
 </tr>
 
 
 <tr>
-<td class="org-right">5</td>
-<td class="org-left">Matemáticas</td>
-<td class="org-left">P. del Lenguaje</td>
-<td class="org-left">P. del Lenguaje</td>
-<td class="org-left">Matemáticas</td>
-<td class="org-left">C. Naturales</td>
+<td  >5</td>
+<td >Matemáticas</td>
+<td >P. del Lenguaje</td>
+<td >P. del Lenguaje</td>
+<td >Matemáticas</td>
+<td >C. Naturales</td>
 </tr>
 
 
 <tr>
-<td class="org-right">6</td>
-<td class="org-left">Matemáticas</td>
-<td class="org-left">P. del Lenguaje</td>
-<td class="org-left">Matemáticas</td>
-<td class="org-left">Matemáticas</td>
-<td class="org-left">P. Del Lenguaje</td>
+<td  >6</td>
+<td >Matemáticas</td>
+<td >P. del Lenguaje</td>
+<td >Matemáticas</td>
+<td >Matemáticas</td>
+<td >P. Del Lenguaje</td>
 </tr>
 </tbody>
 </table>
