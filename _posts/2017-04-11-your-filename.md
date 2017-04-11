@@ -11,7 +11,7 @@ theme: blood
 trans: cube
 visualworkflow: true
 published: false
-title: ""
+title: algo nuevo
 ---
 
 ## algo nuevo
