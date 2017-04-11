@@ -2,7 +2,7 @@
 description: Prácticas del Leguaje
 category: Lengua
 published: false
-title: ""
+title: Prácticas del lenguaje
 ---
 
 ## A New Post
