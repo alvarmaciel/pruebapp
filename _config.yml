@@ -1,13 +1,13 @@
 # Site settings
-title: Project Pages
+title: Prueba de instancia independiente de Project Pages
 description: "An Integrated Scientific Blogging Template"
-url: "https://alvarmaciel.github.io/pruebapp"
+url: "https://alvarmaciel.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/"
+baseurl: "/pruebapp"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
