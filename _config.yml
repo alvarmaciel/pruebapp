@@ -17,9 +17,13 @@ g-analytics: UA-75881392-1
 altmetric: true
 
 # Build settings
+markdown: redcarpet
+redcarpet:
+ extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter: pygments
 gems: [jekyll-paginate]
-markdown: kramdown
-highlighter: rouge
+#markdown: kramdown
+#highlighter: rouge
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
