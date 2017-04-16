@@ -1,7 +1,7 @@
 # Site settings
 title: Planificaciones para armar
 description: "Un template integrado para docentes"
-url: "https://alvarmaciel.github.io/pruebapp"
+url:  "https://alvarmaciel.github.io/pruebapp"
 
 # Secondary Parameters
 baseurl: "/"
