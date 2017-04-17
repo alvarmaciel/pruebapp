@@ -116,7 +116,7 @@ Con esa información, completá los números que faltan en la tabla.
 6. Ahora, escribí el nombre de las cinco provincias más pobladas, también comenzando por la menos poblada.
 
 ## Sobre los estádios
-Problemas extraidos de: Estudiar Matemática 5
+Problemas extraidos de:
 
 1. En la siguiente tabla se puede ller la capacidad que tienen algunos estadios de fútbol.
 
@@ -186,4 +186,4 @@ Problemas extraidos de: Estudiar Matemática 5
 
 - Ubiquen, aproximadamente, cada cantidad de espectadores en la siguiente recta numérica.
 
-![](/img/tareas/RectaNumericaDiezMil.png)
+![](/home/alvar/git/pruebapp/img/tareas/RectaNumericaDiezMil.png)
