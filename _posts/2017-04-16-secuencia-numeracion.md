@@ -197,16 +197,16 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
 ||0|10.000|20.000|30.000|40.000|50.000|60.000|70.000|80.000|90.000|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |0  |   | X | X | X | X | X | X | X | X | X | X |
-|100.00  | X | X | X | X | X | X | X | X | X | X | X |
-|200.00  | X | X | X | X | X | X | X | X | X | X | X |
-|300.00  | X | X | X | X | X | X | X | X | X | X | X |
-|400.00  | X | X | X | X | X |  |  |  |  |  |  |
+|100.00  | X | X | X | X | X | X | X | X | X | X |
+|200.00  | X | X | X | X | X | X | X | X | X | X |
+|300.00  | X | X | X | X | X | X | X | X | X | X |
+|400.00  | X | X | X | X | X |  |  |  |  |  |
 |500.00  |  |  |  |  |  |  |  |  |  |  |  |
 |600.00  |  |  |  |  |  |  |  |  |  |  |  |
 |700.00  |  |  |  |  |  |  |  |  |  |  |  |
 |800.00  |  |  |  |  |  |  |  |  |  |  |  |
 |900.00  |  |  |  |  |  |  |  |  |  |  |  |
-|1.000.000  |  |  |  |  |  |  |  |  |  |  |  |
+|1.000.000  |  |  |  |  |  |  |  |  |  |  |  
 
   1. ¿Cuántos discos compactos se vendieron?
   2. ¿Cuantos CD más se tendrían que vendere para que las marcas lleguen a seiscientos mil?
@@ -216,3 +216,5 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
 
 - Para responder la pregunta 1. del problema ¿Será posible hacer una suma?
 - ¿Qué pregunta del problema se podría responder contando de 10.000 en 10.000?
+
+# [Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
