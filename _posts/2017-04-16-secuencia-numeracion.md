@@ -186,4 +186,4 @@ Problemas extraidos de:
 
 - Ubiquen, aproximadamente, cada cantidad de espectadores en la siguiente recta numérica.
 
-![](img/tareas/RectaNumericaDiezMil.png)
+![](https://alvarmaciel.github.io/pruebapp/img/tareas/RectaNumericaDiezMil.png)
