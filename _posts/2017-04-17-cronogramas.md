@@ -26,9 +26,9 @@ category: Cronogramas
 
 |Hora|Lunes |Martes|Miércoles|Jueves|Viernes|
 |:--:|:-----|:-----|:--------|:-----|:------|
-|1|Los Héctores|Termómetro ambiental|Secuencia Esclavos|Los Héctores|Numeración 3|
-|2|Los Héctores|Termómetro ambiental|Secuencia Esclavos|Los Héctores|Numeración 3|
+|1|Los Héctores|Termómetro ambiental|Secuencia Esclavos|Los Héctores|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|
+|2|Los Héctores|Termómetro ambiental|Secuencia Esclavos|Los Héctores|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|
 |3|Educación Física|Corrección Tarea|Inglés|Asamblea|Educación Física|
 |4|Plástica|Inglés|Inglés|Música|Tecnología|
-|5|[Numeración 3](secuencia-numeracion.html#numeración-3)|Los Héctores|Reflexión sobre el Lenguaje|Numeración 3|Mapa Conceptual|
-|6|numeración 3|Los Héctores|Numeración 3|Numeración3|Lectura|
+|5|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|Los Héctores|Reflexión sobre el Lenguaje|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|Mapa Conceptual|
+|6|numeración 3|Los Héctores|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|Lectura|
