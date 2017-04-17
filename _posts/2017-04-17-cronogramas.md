@@ -30,5 +30,5 @@ category: Cronogramas
 |2|Los Héctores|Termómetro ambiental|Secuencia Esclavos|Los Héctores|Numeración 3|
 |3|Educación Física|Corrección Tarea|Inglés|Asamblea|Educación Física|
 |4|Plástica|Inglés|Inglés|Música|Tecnología|
-|5|[nuemarción 3](/secuencia-numeracion.html#numeración-3)|Los Héctores|Reflexión sobre el Lenguaje|Numeración 3|Mapa Conceptual|
+|5|[Numeración 3](secuencia-numeracion.html#numeración-3)|Los Héctores|Reflexión sobre el Lenguaje|Numeración 3|Mapa Conceptual|
 |6|numeración 3|Los Héctores|Numeración 3|Numeración3|Lectura|
