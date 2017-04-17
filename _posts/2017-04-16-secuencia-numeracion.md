@@ -1,8 +1,8 @@
 ---
 layout: post
-title: secuencia numeración
+title: Secuencia de numeración
 author: Alvar maciel
-tags: Matemáticas secuencias
+tags: [Matemáticas, secuencias]
 subtitle: Numeración quinto grado
 category: proyectos
 pdf: true

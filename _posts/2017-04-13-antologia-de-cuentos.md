@@ -2,7 +2,7 @@
 layout: post
 title: Antología de cuentos
 author: Alvar maciel
-tags: prácticas del lenguaje
+tags: [prácticas del lenguaje, proyectos, cuentos]
 subtitle: Colección de lecturas
 category: proyectos
 ---
@@ -58,7 +58,7 @@ Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendrem
   - ¿En qué época transcurre el cuento?
   - ¿Cómo seguirá este cuento?
 - Actividad de escritura intermedia
-  - Ahora vamos a escribir para ejercitarnos un poco y preparar los escritos de la antología. Imagínense que pueden viajar a las cosas como hace Cecy. ¿A dónde irían? 
+  - Ahora vamos a escribir para ejercitarnos un poco y preparar los escritos de la antología. Imagínense que pueden viajar a las cosas como hace Cecy. ¿A dónde irían?
      1. Hacé un lista de cosas, personas o animales a los que te gustaría viajar.
      2. Siguiendo el plan de escritura, escribí para alguien que nunca pudo estar en otra cosa, cómo es estar dentro de&#x2026;&#x2026;&#x2026;
 
@@ -73,3 +73,10 @@ Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendrem
   - Editorial:
   - Colección:
 
+### Alfarería de amor. Liliana Bodoc
+
+### El principe que se aburría. Cuento tradicional Alemán
+
+### El misterio del barrio. Liliana Cinetto
+
+### Los Héctores. Ricardo Mariño

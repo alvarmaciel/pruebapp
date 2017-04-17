@@ -2,7 +2,7 @@
 layout: notebook
 title: Cronogramas
 author: Alvar maciel
-tags: cronogramas
+tags: [cronogramas]
 subtitle: organización semanal
 category: Cronogramas
 ---
