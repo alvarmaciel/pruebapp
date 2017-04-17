@@ -171,7 +171,7 @@ Problemas extraidos de:
 <th>70.000</th>
 <th>80.000</th>
 <th>90.000</th>
-<th>1o0.000</th>
+<th>100.000</th>
 </tr>
 <tr>
 <td>Sesenta mil</td>
@@ -186,4 +186,4 @@ Problemas extraidos de:
 
 - Ubiquen, aproximadamente, cada cantidad de espectadores en la siguiente recta numérica.
 
-![](/home/alvar/git/pruebapp/img/tareas/RectaNumericaDiezMil.png)
+![](/img/tareas/RectaNumericaDiezMil.png)
