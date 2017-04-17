@@ -5,6 +5,7 @@ author: Alvar maciel
 tags: Matemáticas secuencias
 subtitle: Numeración quinto grado
 category: proyectos
+pdf: true
 ---
 
 **Índice**
